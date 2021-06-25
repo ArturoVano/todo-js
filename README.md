@@ -1,14 +1,15 @@
-# Webpack Starter
+# TODO App
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+Aplicación TodoMVC, gestor de tareas con JavaScript.
+Se usan las Clases de Javascript todo.class y todo-list.class para manipular las tareas.
+En la clase componentes encontramos el componente para crear el HTML para cada Todo, junto con los listeners de la app.
 
 ### Notas:
-Recuerden reconstruir los módulos de Node
+Para reconstruir los módulos de Node:
 ```
 npm install
 ```
-
-Y para construir el build, recueren:
+Para construir el build:
 ```
 npm run build
 ```
